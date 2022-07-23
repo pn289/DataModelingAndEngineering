@@ -1,6 +1,6 @@
  
 
-# Data Modeling and Engineering with Pyhton and PostgreSQL
+# Data Modeling and Engineering with Python and PostgreSQL
 
 ## Summary
 
